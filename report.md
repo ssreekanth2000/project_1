@@ -136,7 +136,7 @@ We can see here that cocaine users who have used weed have started using coke al
 
 We shall again plot the scatter plot and regression to visualize the relationship.
 
-![alt text](https://github.com/ssreekanth2000/project_1/blob/master/photos/weed_coke.png)
+![alt text](https://github.com/ssreekanth2000/project_1/blob/master/photos/weed_cocain.png)
 
 
 We see correlation on both sides of this relationship. A lower age of first cannabis use means a lower age of first coke use and vice-versa. This correlation intrestingly exists at relatively higher ages comapred to the one between cannabis and alcohol.
