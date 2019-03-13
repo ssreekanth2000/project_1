@@ -105,7 +105,7 @@ For the second part, we are looking at the correlations in usage between cannabi
 
 **Cannabis and alcohol**
 
-Cannabis and alcohol are the 2 most prevalent drugs with 72% and 45% of the users surveyed respectivley replying that they have tried them at some point of their lives. 
+Cannabis and alcohol are the 2 most prevalent drugs with 72% and 45% of the users surveyed respectively replying that they have tried them at some point of their lives. 
 
 We shall look at the mean ages at which users who have done both substances started each substance to see if there are any interesting correlations.
 
