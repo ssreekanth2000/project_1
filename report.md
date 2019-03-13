@@ -1,10 +1,11 @@
-**Drug use patterns and correlations**
+# **Drug use patterns and correlations** 
 
 
 One of the things that seemed interesting to me in the war on drugs debate is the details of usage of various drugs and how they might correlate with those of other drugs and in particular those of cannabis as legalization is a hotly debated political issue. In this article we shall use data points and visualizations to gain insight into these patterns.
 
 We are using the National Survey on Drug Use and Health dataset for this project. It has over 55,000 responses spanning across 2500 parameters. It is representative of the general population for most substances. I have mainly explored 2 questions in this analytical project. The first is observing the various usage statistics of 4 different substances, cannabis, alcohol, cocaine and heroine. In the second part we shall look at how the usage of various drugs correlates with that of cannabis and try to visualize some of the relationships. There is no concrete answer we are looking for but we can observe many interesting datapoints.
 
+## Usage patterns 
 For the first part of the analysis we shall be looking at the usage statistics and basic visualizations associated with them for the 4 substances to learn more about their usage. We shall look the overall usage statistics, the % of people who partake in their consumption,the age at which they have started to do so and also the frequency with which they do so.
 
 **Cannabis usage**
@@ -98,7 +99,7 @@ Lets look at usage by seeing the no of times alcohol was used in the last year. 
 
 More than 80% of the people who have ever had alcohol consumed it in the past year. This can be attributed to its social acceptability and legal nature. We can see then see an exponential trend with fewer and fewer people consuming it on a more frequent basis.
 
-**Correlations in drug use**
+## Correlations in drug use
 
 
 For the second part, we are looking at the correlations in usage between cannabis and other substances and will try to visualize some these relationships. This is highly interesting as legalization is a very much debated issue with cannabis labeled as the "gateway" drug.
