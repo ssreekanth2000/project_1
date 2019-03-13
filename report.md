@@ -151,7 +151,7 @@ We shall again plot the scatter plot and regression to visualize the relationshi
 
 We see correlation on both sides of this relationship. A lower age of first cannabis use means a lower age of first coke use and vice-versa. This correlation interestingly exists at relatively higher ages compared to the one between cannabis and alcohol.
 
-**Heroin and coke**
+**Cannabis and heroin**
 
 The relation between Heroin and cannabis should be interesting as heroin is the drug which had the highest overlap of users with cannabis. Over 95% of all Heroin users have consumed cannabis.
 
@@ -169,7 +169,7 @@ cannabis = 17.14
 
 Cohen effect size between the age difference of people who have done only heroin and people who have done both heroin and cannabis = -2.63
 
-The high overlap is something we definitely need to think about as we intrepet any correlations using these relations. The fact that less than 5% of Heroin users have not used cannabis means that the age heroin users who have not used cannabis first tried heroin might not be a very important parameter as it is a set with less than 50 people in a dataset of 50,000.
+The high overlap is something we definitely need to think about as we interpret any correlations using these relations. The fact that less than 5% of Heroin users have not used cannabis means that the age heroin users who have not used cannabis first tried heroin might not be a very important parameter as it is a set with less than 50 people in a dataset of 50,000.
 
 The difference between the age heroin users first tried cannabis and the age cannabis only users have used cannabis is pretty large suggesting users of harder drugs are probably more likely to have tried cannabis at an earlier age.
 
