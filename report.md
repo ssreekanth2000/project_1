@@ -109,9 +109,13 @@ Cannabis and alcohol are the 2 most prevelant drugs with 72% and 45% of the user
 We shall look at the mean ages at which users who have done both substances started each substance to see if there are any interesting correlations.
 
 The average age cannabis users have first tried alcohol = 15.66
+
 The average age alcohol users have first tried cannabis = 17.196
+
 The average age alcohol users(who have not done cannabis) have first tried alcohol = 18.27
+
 The average age cannabis users(who have not done alcohol) have first tried cannabis = 15.78
+
 Cohen effect size between the age difference of people who have done only alcohol and people who have done both alcohol and marijuana= -0.233
 
 This leaves us with 2 interesting points to note, the first being that cannabis use in alcohol users lowers the age of first brush with alcohol by a very significant amount but alcohol use in cannabis users shows a much smaller difference and the second saying cannabis users start off much younger than alcohol which is suprising considering the legalities of both.
@@ -127,9 +131,13 @@ Interpreting this scatter plot, we can infer that, at lower ages, a lower age of
 Next, lets look at patterns between the usage of cannabis and coke, This is a correlation which is interesting as we are examining the link in usage between two illegal drugs of varying intensities.
 
 The average age cannabis users have first tried coke = 20.68.
+
 The average age coke users have first tried cannabis = 15.70.
+
 The average age coke users(who have not done cannabis) have first tried coke = 22.51.
+
 The average age cannabis users(who have not done coke) have first tried cannabis = 17.14.
+
 Cohen effect size between the age difference of people who have done only cocaine and people who have done both cocaine and cannabis= -1.860
 
 We can see here that cocaine users who have used weed have started using coke almost two years earlier compared to those who haven't. This suggests that people who have consumed cannabis have used harder drugs earlier compared to those who haven't. There is nothing conclusive to be drawn from this but it is an interesting pattern.
@@ -145,13 +153,19 @@ We see correlation on both sides of this relationship. A lower age of first cann
 
 The relation between Heroin and cannabis should be interesting as heroin is the drug which had the higest overlap of users with cannabis. Over 95% of all Heroin users have consumed cannabis.
 
-The % of heroine users who have consumed cannabis=  96.98736637512148
-The average age cannabis users have first tried heroin 22.69838056680162
-The average age heroin users have first tried cannabis 14.246963562753036
-The average age heroin users(who have not done cannabis) have first tried heroine 24.14814814814815
+The % of heroine users who have consumed cannabis =  96.98
+
+The average age cannabis users have first tried heroin = 22.69
+
+The average age heroin users have first tried cannabis = 14.24
+
+The average age heroin users(who have not done cannabis) have first tried heroine = 24.14
+
 The average age cannabis users(who have not done heroin) have first tried 
-uana 17.149571226375823
-Cohen effect size between the age difference of people who have done only heroin and people who have done both heroin and cannabis= -2.638993179873541
+cannabis = 17.14
+
+
+Cohen effect size between the age difference of people who have done only heroin and people who have done both heroin and cannabis = -2.63
 
 The high overlap is something we definetly need to think about as we intrepet any correlations using these relations. The fact that less than 5% of Heroin users have not used cannabis means that the age heroin users who have not used cannabis first tried heroin might not be a very important parameter as it is less than 50 people in a dataset of 50,000.
 
