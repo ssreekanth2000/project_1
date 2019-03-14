@@ -176,7 +176,7 @@ The difference between the age heroin users first tried cannabis and the age can
 
 We shall now plot the scatter plot between the age at which people have tried heroin and the age they have tried cannabis along with a regression to visualize the correlation.
 
-![alt text](https://github.com/ssreekanth2000/project_1/blob/master/photos/weed_heroin.png)
+![alt text](https://github.com/ssreekanth2000/project_1/blob/master/photos/weed_heorin.png)
 
 There appears to be no significant correlation outside the fact that age of first cannabis use between the ages of 15 and 20 correlates with earlier Heroin use.The age at which people have tried Heroin later seems to be an independent variable not dependent on cannabis use.
 
