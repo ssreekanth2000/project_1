@@ -189,7 +189,7 @@ What we see here broadly is that the age at which people try cannabis and alcoho
 
 **Conclusions**
 
-There are clear differences in ages at which people who have not done cannabis and people who have done, start using each of the other substances. We also see a clear pattern where correlation between cannabis use and other drugs is strong. Both of these results suggest that cannabis might have acted as a gateway drug but we have no clear way to prove that. Looking at this correlations and distributions, we can try to infer data regarding how these usages impact people and how they might have started off. 
+We can see pretty clean differences in the usage patterns including the age they start using and the frequency of usage for the various substances. Harder drugs are tried later on in life and the more socaily acceptable ones are consumed on a more regular basis by users. There are clear differences in ages at which people who have not done cannabis and people who have done, start using each of the other substances. We also see a clear pattern where correlation between cannabis use and other drugs is strong. Both of these results suggest that cannabis might have acted as a gateway drug but we have no clear way to prove that. Looking at this correlations and distributions, we can try to infer data regarding how these usages impact people and how they might have started off. 
 
 
 
