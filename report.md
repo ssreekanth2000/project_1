@@ -38,6 +38,7 @@ Now lets move on to something harder(more dangerous and intense) and see how man
 
 Number of people in the dataset who have used coke = 6745 
 
+
 Percent of users surveyed = 11.98 %
 
 This lines up with the 38 million people(12%) in the US estimated to have tried cocaine at some point in their life.
@@ -48,7 +49,7 @@ For the people who have used Coke, lets look at the age they have started do so 
 
 We can see in the graph that most people start between age 18 and age 25. The median age is definitely higher than that for cannabis suggesting most people try harder(more dangerous) drugs later on in life.
 
-Again lets look at usage by seeing the number of times coke was used in the last year by people who have used it atleast once in their lives. I have binned data by to nearest 10 for clearer plotting.
+Again lets look at usage by seeing the number of times coke was used in the last year by people who have used it atleast once in their lives. I have binned data to the nearest 10 for clearer plotting.
 
 ![alt text](https://github.com/ssreekanth2000/project_1/blob/master/photos/coke_usage_cdf.png)
 
