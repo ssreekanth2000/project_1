@@ -1,5 +1,5 @@
 # **Drug use patterns and correlations** 
-
+**Sreekanth Reddy Sajjala**
 
 One of the things that seemed interesting to me in the war on drugs debate is the details of usage of various drugs and how they might correlate with those of other drugs and in particular those of cannabis, as legalization is a hotly debated political issue. In this article we shall use data points and visualizations to gain insight into these patterns.
 
