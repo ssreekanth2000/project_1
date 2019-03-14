@@ -1,5 +1,5 @@
 # **Drug use patterns and correlations** 
-**Sreekanth Reddy Sajjala**
+Sreekanth Reddy Sajjala
 
 Data science | Spring 2019
 
